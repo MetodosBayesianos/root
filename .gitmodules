@@ -1,0 +1,6 @@
+[submodule "tesis/constanza-de-galvagni-tesis"]
+	path = tesis/constanza-de-galvagni-tesis
+	url = git@github.com:MetodosBayesianos/constanza-de-galvagni-tesis.git
+[submodule "tesis/tesis-deprecado"]
+	path = tesis/tesis-deprecado
+	url = git@github.com:MetodosBayesianos/tesis-deprecado.git
