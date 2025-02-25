@@ -4,3 +4,9 @@
 [submodule "tesis/tesis-deprecado"]
 	path = tesis/tesis-deprecado
 	url = git@github.com:MetodosBayesianos/tesis-deprecado.git
+[submodule "docencia/InferenciaBayesianaCausal1"]
+	path = docencia/InferenciaBayesianaCausal1
+	url = git@github.com:MetodosBayesianos/InferenciaBayesianaCausal1.git
+[submodule "web/metodos"]
+	path = web/metodos
+	url = git@github.com:MetodosBayesianos/MetodosBayesianos.github.io.git
