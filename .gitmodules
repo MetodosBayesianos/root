@@ -10,3 +10,6 @@
 [submodule "web/metodos"]
 	path = web/metodos
 	url = git@github.com:MetodosBayesianos/MetodosBayesianos.github.io.git
+[submodule "tesis/tomas-caneda-tesis"]
+	path = tesis/tomas-caneda-tesis
+	url = git@github.com:MetodosBayesianos/tomas-caneda-tesis.git
