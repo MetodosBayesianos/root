@@ -13,3 +13,6 @@
 [submodule "tesis/tomas-caneda-tesis"]
 	path = tesis/tomas-caneda-tesis
 	url = git@github.com:MetodosBayesianos/tomas-caneda-tesis.git
+[submodule "comunidad/Competencias"]
+	path = comunidad/Competencias
+	url = git@github.com:MetodosBayesianos/Competencias.git
