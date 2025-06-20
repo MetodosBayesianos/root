@@ -16,3 +16,6 @@
 [submodule "comunidad/Competencias"]
 	path = comunidad/Competencias
 	url = git@github.com:MetodosBayesianos/Competencias.git
+[submodule "obras/SuyusPacha"]
+	path = obras/SuyusPacha
+	url = git@github.com:MetodosBayesianos/SuyusPacha.git
