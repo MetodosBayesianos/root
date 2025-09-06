@@ -19,3 +19,6 @@
 [submodule "obras/SuyusPacha"]
 	path = obras/SuyusPacha
 	url = git@github.com:MetodosBayesianos/SuyusPacha.git
+[submodule "docencia/InferenciaEficiente"]
+	path = docencia/InferenciaEficiente
+	url = git@github.com:MetodosBayesianos/InferenciaEficiente.git
