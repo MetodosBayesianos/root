@@ -22,3 +22,6 @@
 [submodule "docencia/InferenciaEficiente"]
 	path = docencia/InferenciaEficiente
 	url = git@github.com:MetodosBayesianos/InferenciaEficiente.git
+[submodule "docencia/IntroduccionProgramacionBayes"]
+	path = docencia/IntroduccionProgramacionBayes
+	url = git@github.com:MetodosBayesianos/IntroduccionProgramacionBayes.git
